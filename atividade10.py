@@ -44,8 +44,10 @@ def exercicio4():
   }
  opcao = input()
  while opcao != 'd':
-    if opcao in menu:
-      print(menu[opcao])
+    if opcao in = 'a':
+      print("PSG")
+      elif opcao = 'b':
+        print("BAYER)
     else:
       print("invalido")
     opcao = imput()
